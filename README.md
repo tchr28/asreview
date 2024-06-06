@@ -56,10 +56,22 @@ instructions to install Python and ASReview are available for
 pip install asreview
 ```
 
+or
+
+```bash
+pip3 install asreview
+```
+
 Upgrade ASReview with the following command:
 
 ```bash
 pip install --upgrade asreview
+```
+
+or
+
+```bash
+pip3 install --upgrade asreview
 ```
 
 To install ASReview LAB with Docker, see [Install with Docker](https://asreview.readthedocs.io/en/latest/installation.html).
